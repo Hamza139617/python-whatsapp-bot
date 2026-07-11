@@ -36,3 +36,4 @@ def signature_required(f):
         return f(*args, **kwargs)
 
     return decorated_function
+# this is something very cool
